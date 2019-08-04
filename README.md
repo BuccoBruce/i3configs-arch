@@ -7,4 +7,4 @@ Standard Packages: openssh xorg git vim i3 xorg-xinit terminator rsync ttf-font-
 AUR Packages: polybar ttf-weather-icons spotify siji-git
 
 
-Extract contents to home directory
+Extract contents to home directory then reload i3
